@@ -3,7 +3,7 @@ J-LINK Commander like tool for JLink, adding HardFault diagnosis and SVD-based p
 
 To run this tool, you need python 3.6+ and prompt_toolkit 3.0+.
 
-![](https://github.com/XIVN1987/JLKCmdr/blob/master/截屏.gif)
+![](https://github.com/XIVN1987/JLKCmdr/blob/main/截屏.gif)
 `√` meaning file exists, `×` meaning not.
 
 ## Basic Command
